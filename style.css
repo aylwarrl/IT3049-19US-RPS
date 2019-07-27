@@ -1,3 +1,9 @@
 .hidden {
     display: none;
 }
+
+body {
+    padding: 100px;
+    max-width: 500px;
+    margin: auto;
+}
